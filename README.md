@@ -1,7 +1,7 @@
-# SKILL:Javascript programing and Scripting (Apprentice Developer)
+# SKILL:Javascript Programing and Scripting (Apprentice Developer)
 
 ## [PRE-REQUISITES]
-  * None
+  * [Introduction to JavaScript](https://github.com/Harmelodic/skill-intro-to-javascript-apprentice-dev)
 
 ## [TOPICS]
   *  HTML APIs (DOM Manipulationg) and their support in browsers
